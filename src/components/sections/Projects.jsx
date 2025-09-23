@@ -84,7 +84,7 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">E-Commerce Web App</h3>
+              <h3 className="text-xl font-bold mb-2">PureRebel E-Commerce Web App</h3>
               <p className="text-gray-400 mb-4">
                 Full-stack e-commerce with modern UI, secure payment
                 integration, and customizable product inventory.
@@ -109,7 +109,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="#"
+                  href="purerebel-shop.fourthwall.com"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
